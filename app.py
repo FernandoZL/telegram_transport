@@ -12,7 +12,7 @@ import requests
 
 
 # Token provided by @ BotFather
-TOKEN = 'TOKEN' 
+TOKEN = 'TOKEN1' 
 # Your Heroku App Page 
 APP_NAME = 'https://XXXX.herokuapp.com/'
 # Port
