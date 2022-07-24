@@ -12,9 +12,9 @@ import requests
 
 
 # Token provided by @ BotFather
-TOKEN = 'TOKEN1' 
+TOKEN = '5530425914:AAEUWQHLPVtM2ksZ6KQS3V8NmGKX_N7-6Sk' 
 # Your Heroku App Page 
-APP_NAME = 'https://XXXX.herokuapp.com/'
+APP_NAME = 'https://sergesa-bot.herokuapp.com/'
 # Port
 PORT = int(os.environ.get('PORT', '8443'))
 
